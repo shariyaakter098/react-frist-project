@@ -1,0 +1,20 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.home{
+    display: flex;
+}
+.home h2{
+    text-align: center;
+    display: flex;
+    color: aqua;
+   
+}
+.home button{
+    width: 40px;
+
+}
